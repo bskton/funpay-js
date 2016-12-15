@@ -1,0 +1,11 @@
+#loader {
+    display: none;
+}
+
+.loader .content {
+    height: 120px;
+}
+
+.loader .text {
+    margin-bottom: 45px;
+}
